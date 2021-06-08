@@ -1,0 +1,26 @@
+
+body {
+    background-image: url("back-image.jpg");
+    background-size: cover;
+}
+
+header {
+    position: center;
+    margin: 15px ;
+    text-align: center;
+    border-style: solid;
+    border-radius:0.5em;
+    background-color: blanchedalmond
+}
+
+.form-group {
+    color: white;
+    font-family: Helvetica; Arial;
+    font-size: 18px;
+
+}
+
+.col-sm-6 {
+ display: inline-block;
+}
+
